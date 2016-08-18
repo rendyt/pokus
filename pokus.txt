@@ -3,3 +3,4 @@ pokusny soubor na zjisteni funkce zapisu SHA-1 do souboru po commitu
 SHA: $ID:$
 
 Tak uvidime.
+Dalsi pokus

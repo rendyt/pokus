@@ -1,6 +1,6 @@
 pokusny soubor na zjisteni funkce zapisu SHA-1 do souboru po commitu
 
-SHA: $ID$
+SHA: $Id$
 
 Tak uvidime.
 Dalsi pokus
